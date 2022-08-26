@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @KittyCat951
-- 👀 I’m interested in ... coading and computers 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Ghost-Cat174 (cat if you prefer)
+- 👀 I’m interested in ... coding and computers 
+- 📫 How to reach me ... https://discord.gg/Uzjct6Nkf5
 
 <!---
 KittyCat951/KittyCat951 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
